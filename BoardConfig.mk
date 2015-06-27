@@ -26,7 +26,6 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/sirius/include
 BOARD_HARDWARE_CLASS += device/sony/sirius/cmhw
 
 # Kernel properties
-TARGET_KERNEL_SOURCE := kernel/sony/msm8974
 TARGET_KERNEL_CONFIG := cm_shinano_sirius_defconfig
 
 # Partition information
